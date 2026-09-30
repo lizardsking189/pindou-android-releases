@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "minSdk": 26,
+  "apkUrl": "https://github.com/lizardsking189/pindou-android-releases/releases/download/android-v1.0.2/pindou-management-1.0.2.apk",
+  "size": 45842,
+  "sha256": "8895fa81e78ae3c88f03946bfaddc295a4453b25e835afe2482c4d16c342086f",
+  "notes": "启用公开 APK 更新通道，支持在 App 内下载并覆盖安装新版。"
+}
